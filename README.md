@@ -1,4 +1,4 @@
-# Compara-o-CRA
+# Comparador de CRA
 O programa avalia qual é, dentre 3 alunos, o com maior CRA e salva em um arquivo;
 
 Dados de entrada:
