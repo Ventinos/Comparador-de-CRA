@@ -9,8 +9,8 @@ Dados de entrada:
 O programa lê os dados de entrada de um arquivo e escreve o resultado em outro arquivo,
 o nome dos arquivos devem ser passados em tempo de lançamento;
     Exemplo:
-        ./a.out dados.txt logs.txt
-        (O primeiro a ser passado é onde os dados devem estar e o segundo onde o resultado é salvo);
+        - ./a.out dados.txt logs.txt
+        - (O primeiro a ser passado é onde os dados devem estar e o segundo onde o resultado é salvo);
 
 Por Gustavo Ventino
 Em 2022
