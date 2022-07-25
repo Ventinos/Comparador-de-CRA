@@ -13,4 +13,5 @@ Exemplo:
   - (O primeiro a ser passado é onde os dados devem estar e o segundo onde o resultado é salvo);
 
 Por Gustavo Ventino
+
 Em 2022
